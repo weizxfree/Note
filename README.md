@@ -5,3 +5,5 @@ https://github.com/legendzhouqiang/teamtalk.git
 https://github.com/18601949127/DiDiCallCar
 3. 一个质量比较高的开源项目推荐网站
 https://p.codekk.com/
+4. ASM 实现方法耗时计算并本地 RN 通信，呈现到 Web 界面的工具
+https://github.com/zhengcx/MethodTraceMan
