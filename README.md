@@ -12,6 +12,6 @@ https://github.com/weizxfree/AndroidDemo.git
 6. 一个 Android 学习的网站  
 https://yedaxia.github.io/Android-Learning-Team/
 7. 一个小而美的 Web  
-https://github.com/WuChenDi/PC-cdxfc
+https://github.com/WuChenDi/PC-cdxfc  
 8.动效库  
 https://github.com/HpWens/MeiWidgetView
