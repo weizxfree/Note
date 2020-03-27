@@ -16,7 +16,7 @@ https://github.com/WuChenDi/PC-cdxfc
 8. 动效库  
 https://github.com/HpWens/MeiWidgetView
 9. 开源库学习  
-https://github.com/SusionSuc/AdvancedAndroid
+https://github.com/SusionSuc/AdvancedAndroid  
 10.收集的好玩意
 https://www.jianshu.com/p/5b29048cbd62
 
