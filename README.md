@@ -11,6 +11,7 @@ https://github.com/zhengcx/MethodTraceMan
 https://github.com/weizxfree/AndroidDemo.git
 6. 一个 Android 学习的网站  
 https://yedaxia.github.io/Android-Learning-Team/
+https://github.com/chiclaim/AndroidAll
 7. 一个小而美的 Web  
 https://github.com/WuChenDi/PC-cdxfc  
 8. 动效库  
