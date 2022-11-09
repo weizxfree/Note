@@ -23,7 +23,7 @@ https://www.jianshu.com/p/5b29048cbd62
 11.实时投屏工具
 https://segmentfault.com/a/1190000022729406  
 12.唐诗宋词数据库  
-https://github.com/chinese-poetry/chinese-poetry
+https://github.com/chinese-poetry/chinese-poetry  
 13.firda android 学习  
 https://eternalsakura13.com/2020/07/04/frida/
 
