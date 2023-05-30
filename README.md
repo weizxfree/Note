@@ -25,7 +25,7 @@ https://segmentfault.com/a/1190000022729406
 12.唐诗宋词数据库  
 https://github.com/chinese-poetry/chinese-poetry  
 13.firda android 学习  
-https://eternalsakura13.com/2020/07/04/frida/. 
+https://eternalsakura13.com/2020/07/04/frida/  
 14.开源电商 demo  
 https://github.com/macrozheng/mall
 
